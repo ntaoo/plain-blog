@@ -42,3 +42,5 @@ group :test, :development do
 end
 
 gem "sorcery"
+
+gem 'pry-rails', :group => :development
